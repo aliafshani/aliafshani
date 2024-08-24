@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on persian CMS<br>🌱 I’m currently learning TS<br>💬 Ask me about front-end
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aliafshaniiii) 
 
