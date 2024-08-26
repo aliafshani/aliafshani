@@ -1,10 +1,8 @@
-<h2 align="left">Hi 👋! My name is Ali Afshani and I'm a front-End developer.</h2>
+<h2 align="left">Hi! My name is Ali Afshani and I'm a front-End developer.</h2>
 
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/aliafshani/aliafshani/output/snake.svg" alt="Snake animation" />
 
 ###
 
