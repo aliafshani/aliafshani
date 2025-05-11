@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently working on https://github.com/aliafshani/ALMIN   X_X<br><br>I’m currently learning TypeScript, Next ~_~<br><br> Ask me about react, js, tailwind ^_^<br><br> Fun fact about me is im runner :D
+ I’m currently working on https://github.com/aliafshani/ALMIN   X_X<br><br>I’m currently learning TypeScript, Next ~_~ <br><br> Ask me about react, js, tailwind ^_^<br><br> Fun fact about me is im runner :D
 
 
 ## 🌐 Socials:
