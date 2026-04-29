@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently working on <a href=" https://github.com/aliafshani/ALMIN "> almin fullstack app</a>  X_X<br><br>I’m currently learning TypeScript, Next ~_~ <br><br> Ask me about react, js, tailwind ^_^<br><br> Fun fact about me is im runner :D
+ I’m currently working on <a href=" https://github.com/aliafshani/ALMIN "> almin fullstack app</a>  X_X<br><br>I’m currently learning software structures <br><br> Ask me about next , react and fastAPI ^_^<br><br> Fun fact about me is im runner :D
 
 
 ## 🌐 Socials:
